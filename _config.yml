@@ -1,0 +1,10 @@
+title: Smart Bó
+description: La tecnología nos rodea constantemente, y afecta nuestras vidas de formas positivas, negativas, interesantes y fascinantes, por lo que no haría mal entender un poco mas de como funciona y cómo nos afecta. Aprendé junto a mi como funciona tu PC, como funcionan las redes, como funciona la domótica, y mucho mas en el maravilloso mundo de la tecnología.  
+author: Mateo Jaunsolo Perazzo
+
+theme: chirpy
+
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
